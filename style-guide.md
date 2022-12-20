@@ -12,7 +12,7 @@ Os desenhos foram criados nas seguintes larguras:
 ### Principal
 
 - Dark cyan: hsl(158, 36%, 37%)
-- Cream: hsl(30, 38%, 92%)
+- Cream: hsl(30, 38%, 92%);
 
 ### Neutro
 
