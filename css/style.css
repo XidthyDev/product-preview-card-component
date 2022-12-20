@@ -9,7 +9,7 @@ body{
  }
 .container{
   background-color: #fff ;
-  width: 600px;
+  max-width: 600px;
   height: 450px;
   display: flex;
   border-radius: 15px;
