@@ -88,6 +88,15 @@ body{
 .conteudo_container .btn:hover{
   background-color: #1A4031;
 }
+@media (max-width:480px){
+  .price_container .old_price{
+    font-size: 12px;
+  }
+  .price_container .current_price{
+    font-size: 18px;
+  }
+}
+
 @media (max-width:375px){
  
   .card_container{
@@ -131,3 +140,4 @@ body{
     padding: 15px;
   }
 }
+
