@@ -95,6 +95,9 @@ body{
   .price_container .current_price{
     font-size: 18px;
   }
+  .conteudo_container .btn{
+    font-size: 12px;
+  }
 }
 
 @media (max-width:375px){
@@ -136,8 +139,14 @@ body{
   .price_container .old_price{
     font-size: 12px;
   }
+  .price_container .current_price{
+    font-size: 28px;
+  }
   .conteudo_container .btn{
     padding: 15px;
+  }
+  .price_container{
+    gap: 30px ;
   }
 }
 
