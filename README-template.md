@@ -24,8 +24,8 @@ Esta é uma solução para o [desafio do componente do cartão de visualização
 
 Os usuários devem ser capazes de:
 
-- Veja o layout ideal dependendo do tamanho da tela do dispositivo
-- Veja os estados de foco e foco para elementos interativos
+- Ver o layout ideal dependendo do tamanho da tela do dispositivo.
+- Ver os estados de foco e foco para elementos interativos
 
 ### Captura de tela
 
