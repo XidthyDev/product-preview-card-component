@@ -46,5 +46,5 @@ Na construção desse exemplo aprendi a estruturas as informações em HTML e de
 
 ## Autor
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/XidthyDev)
+- Frontend Mentor - [@XidthyDev](https://www.frontendmentor.io/profile/XidthyDev)
 
